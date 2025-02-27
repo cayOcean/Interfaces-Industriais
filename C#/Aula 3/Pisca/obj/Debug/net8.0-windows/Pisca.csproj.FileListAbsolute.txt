@@ -1,0 +1,16 @@
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 3\Pisca\bin\Debug\net8.0-windows\Pisca.exe
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 3\Pisca\bin\Debug\net8.0-windows\Pisca.deps.json
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 3\Pisca\bin\Debug\net8.0-windows\Pisca.runtimeconfig.json
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 3\Pisca\bin\Debug\net8.0-windows\Pisca.dll
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 3\Pisca\bin\Debug\net8.0-windows\Pisca.pdb
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 3\Pisca\obj\Debug\net8.0-windows\Pisca.Form1.resources
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 3\Pisca\obj\Debug\net8.0-windows\Pisca.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 3\Pisca\obj\Debug\net8.0-windows\Pisca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 3\Pisca\obj\Debug\net8.0-windows\Pisca.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 3\Pisca\obj\Debug\net8.0-windows\Pisca.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 3\Pisca\obj\Debug\net8.0-windows\Pisca.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 3\Pisca\obj\Debug\net8.0-windows\Pisca.dll
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 3\Pisca\obj\Debug\net8.0-windows\refint\Pisca.dll
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 3\Pisca\obj\Debug\net8.0-windows\Pisca.pdb
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 3\Pisca\obj\Debug\net8.0-windows\Pisca.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\IFACI\C#\Aula 3\Pisca\obj\Debug\net8.0-windows\ref\Pisca.dll
