@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\controleSemaforo\bin\Debug\net8.0-windows\controleSemaforo.exe
+C:\Users\Aluno\source\repos\controleSemaforo\bin\Debug\net8.0-windows\controleSemaforo.deps.json
+C:\Users\Aluno\source\repos\controleSemaforo\bin\Debug\net8.0-windows\controleSemaforo.runtimeconfig.json
+C:\Users\Aluno\source\repos\controleSemaforo\bin\Debug\net8.0-windows\controleSemaforo.dll
+C:\Users\Aluno\source\repos\controleSemaforo\bin\Debug\net8.0-windows\controleSemaforo.pdb
+C:\Users\Aluno\source\repos\controleSemaforo\obj\Debug\net8.0-windows\controleSemaforo.Form1.resources
+C:\Users\Aluno\source\repos\controleSemaforo\obj\Debug\net8.0-windows\controleSemaforo.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\controleSemaforo\obj\Debug\net8.0-windows\controleSemaforo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\controleSemaforo\obj\Debug\net8.0-windows\controleSemaforo.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\controleSemaforo\obj\Debug\net8.0-windows\controleSemaforo.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\controleSemaforo\obj\Debug\net8.0-windows\controleSemaforo.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\controleSemaforo\obj\Debug\net8.0-windows\controleSemaforo.dll
+C:\Users\Aluno\source\repos\controleSemaforo\obj\Debug\net8.0-windows\refint\controleSemaforo.dll
+C:\Users\Aluno\source\repos\controleSemaforo\obj\Debug\net8.0-windows\controleSemaforo.pdb
+C:\Users\Aluno\source\repos\controleSemaforo\obj\Debug\net8.0-windows\controleSemaforo.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\controleSemaforo\obj\Debug\net8.0-windows\ref\controleSemaforo.dll
+C:\Users\Aluno\source\repos\controleSemaforo\obj\Debug\net8.0-windows\controleSemaforo.Properties.Resources.resources

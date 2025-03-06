@@ -1,0 +1,16 @@
+C:\Users\Aluno\source\repos\quatroBotoes\bin\Debug\net8.0-windows\quatroBotoes.exe
+C:\Users\Aluno\source\repos\quatroBotoes\bin\Debug\net8.0-windows\quatroBotoes.deps.json
+C:\Users\Aluno\source\repos\quatroBotoes\bin\Debug\net8.0-windows\quatroBotoes.runtimeconfig.json
+C:\Users\Aluno\source\repos\quatroBotoes\bin\Debug\net8.0-windows\quatroBotoes.dll
+C:\Users\Aluno\source\repos\quatroBotoes\bin\Debug\net8.0-windows\quatroBotoes.pdb
+C:\Users\Aluno\source\repos\quatroBotoes\obj\Debug\net8.0-windows\quatroBotoes.Form1.resources
+C:\Users\Aluno\source\repos\quatroBotoes\obj\Debug\net8.0-windows\quatroBotoes.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\quatroBotoes\obj\Debug\net8.0-windows\quatroBotoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\quatroBotoes\obj\Debug\net8.0-windows\quatroBotoes.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\quatroBotoes\obj\Debug\net8.0-windows\quatroBotoes.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\quatroBotoes\obj\Debug\net8.0-windows\quatroBotoes.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\quatroBotoes\obj\Debug\net8.0-windows\quatroBotoes.dll
+C:\Users\Aluno\source\repos\quatroBotoes\obj\Debug\net8.0-windows\refint\quatroBotoes.dll
+C:\Users\Aluno\source\repos\quatroBotoes\obj\Debug\net8.0-windows\quatroBotoes.pdb
+C:\Users\Aluno\source\repos\quatroBotoes\obj\Debug\net8.0-windows\quatroBotoes.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\quatroBotoes\obj\Debug\net8.0-windows\ref\quatroBotoes.dll

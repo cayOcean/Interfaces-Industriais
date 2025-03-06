@@ -1,0 +1,16 @@
+C:\Users\Aluno\source\repos\monitoramentoTrafego\bin\Debug\net8.0-windows\monitoramentoTrafego.exe
+C:\Users\Aluno\source\repos\monitoramentoTrafego\bin\Debug\net8.0-windows\monitoramentoTrafego.deps.json
+C:\Users\Aluno\source\repos\monitoramentoTrafego\bin\Debug\net8.0-windows\monitoramentoTrafego.runtimeconfig.json
+C:\Users\Aluno\source\repos\monitoramentoTrafego\bin\Debug\net8.0-windows\monitoramentoTrafego.dll
+C:\Users\Aluno\source\repos\monitoramentoTrafego\bin\Debug\net8.0-windows\monitoramentoTrafego.pdb
+C:\Users\Aluno\source\repos\monitoramentoTrafego\obj\Debug\net8.0-windows\monitoramentoTrafego.Form1.resources
+C:\Users\Aluno\source\repos\monitoramentoTrafego\obj\Debug\net8.0-windows\monitoramentoTrafego.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\monitoramentoTrafego\obj\Debug\net8.0-windows\monitoramentoTrafego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\monitoramentoTrafego\obj\Debug\net8.0-windows\monitoramentoTrafego.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\monitoramentoTrafego\obj\Debug\net8.0-windows\monitoramentoTrafego.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\monitoramentoTrafego\obj\Debug\net8.0-windows\monitoramentoTrafego.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\monitoramentoTrafego\obj\Debug\net8.0-windows\monitoramentoTrafego.dll
+C:\Users\Aluno\source\repos\monitoramentoTrafego\obj\Debug\net8.0-windows\refint\monitoramentoTrafego.dll
+C:\Users\Aluno\source\repos\monitoramentoTrafego\obj\Debug\net8.0-windows\monitoramentoTrafego.pdb
+C:\Users\Aluno\source\repos\monitoramentoTrafego\obj\Debug\net8.0-windows\monitoramentoTrafego.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\monitoramentoTrafego\obj\Debug\net8.0-windows\ref\monitoramentoTrafego.dll
