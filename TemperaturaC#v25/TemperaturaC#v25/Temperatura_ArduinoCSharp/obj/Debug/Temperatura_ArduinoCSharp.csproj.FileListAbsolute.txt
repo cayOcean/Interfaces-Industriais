@@ -1,0 +1,24 @@
+X:\Área de Trabalho\WINDOWS_FORM_AULA_12_CSHARP_ARDUINO\TemperaturaC#v25\Temperatura_ArduinoCSharp\bin\Debug\Temperatura_ArduinoCSharp.exe.config
+X:\Área de Trabalho\WINDOWS_FORM_AULA_12_CSHARP_ARDUINO\TemperaturaC#v25\Temperatura_ArduinoCSharp\bin\Debug\Temperatura_ArduinoCSharp.exe
+X:\Área de Trabalho\WINDOWS_FORM_AULA_12_CSHARP_ARDUINO\TemperaturaC#v25\Temperatura_ArduinoCSharp\bin\Debug\Temperatura_ArduinoCSharp.pdb
+X:\Área de Trabalho\WINDOWS_FORM_AULA_12_CSHARP_ARDUINO\TemperaturaC#v25\Temperatura_ArduinoCSharp\bin\Debug\ThermometerControl.dll
+X:\Área de Trabalho\WINDOWS_FORM_AULA_12_CSHARP_ARDUINO\TemperaturaC#v25\Temperatura_ArduinoCSharp\obj\Debug\Temperatura_ArduinoCSharp.csproj.AssemblyReference.cache
+X:\Área de Trabalho\WINDOWS_FORM_AULA_12_CSHARP_ARDUINO\TemperaturaC#v25\Temperatura_ArduinoCSharp\obj\Debug\Temperatura_ArduinoCSharp.Form1.resources
+X:\Área de Trabalho\WINDOWS_FORM_AULA_12_CSHARP_ARDUINO\TemperaturaC#v25\Temperatura_ArduinoCSharp\obj\Debug\Temperatura_ArduinoCSharp.Properties.Resources.resources
+X:\Área de Trabalho\WINDOWS_FORM_AULA_12_CSHARP_ARDUINO\TemperaturaC#v25\Temperatura_ArduinoCSharp\obj\Debug\Temperatura_ArduinoCSharp.csproj.GenerateResource.cache
+X:\Área de Trabalho\WINDOWS_FORM_AULA_12_CSHARP_ARDUINO\TemperaturaC#v25\Temperatura_ArduinoCSharp\obj\Debug\Temperatura_ArduinoCSharp.csproj.CoreCompileInputs.cache
+X:\Área de Trabalho\WINDOWS_FORM_AULA_12_CSHARP_ARDUINO\TemperaturaC#v25\Temperatura_ArduinoCSharp\obj\Debug\Temperat.330588EA.Up2Date
+X:\Área de Trabalho\WINDOWS_FORM_AULA_12_CSHARP_ARDUINO\TemperaturaC#v25\Temperatura_ArduinoCSharp\obj\Debug\Temperatura_ArduinoCSharp.exe
+X:\Área de Trabalho\WINDOWS_FORM_AULA_12_CSHARP_ARDUINO\TemperaturaC#v25\Temperatura_ArduinoCSharp\obj\Debug\Temperatura_ArduinoCSharp.pdb
+C:\Users\Aluno\Downloads\TemperaturaC#v25\TemperaturaC#v25\Temperatura_ArduinoCSharp\bin\Debug\Temperatura_ArduinoCSharp.exe.config
+C:\Users\Aluno\Downloads\TemperaturaC#v25\TemperaturaC#v25\Temperatura_ArduinoCSharp\bin\Debug\Temperatura_ArduinoCSharp.exe
+C:\Users\Aluno\Downloads\TemperaturaC#v25\TemperaturaC#v25\Temperatura_ArduinoCSharp\bin\Debug\Temperatura_ArduinoCSharp.pdb
+C:\Users\Aluno\Downloads\TemperaturaC#v25\TemperaturaC#v25\Temperatura_ArduinoCSharp\obj\Debug\Temperatura_ArduinoCSharp.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\TemperaturaC#v25\TemperaturaC#v25\Temperatura_ArduinoCSharp\obj\Debug\Temperatura_ArduinoCSharp.Form1.resources
+C:\Users\Aluno\Downloads\TemperaturaC#v25\TemperaturaC#v25\Temperatura_ArduinoCSharp\obj\Debug\Temperatura_ArduinoCSharp.Properties.Resources.resources
+C:\Users\Aluno\Downloads\TemperaturaC#v25\TemperaturaC#v25\Temperatura_ArduinoCSharp\obj\Debug\Temperatura_ArduinoCSharp.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\TemperaturaC#v25\TemperaturaC#v25\Temperatura_ArduinoCSharp\obj\Debug\Temperatura_ArduinoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\TemperaturaC#v25\TemperaturaC#v25\Temperatura_ArduinoCSharp\obj\Debug\Temperat.330588EA.Up2Date
+C:\Users\Aluno\Downloads\TemperaturaC#v25\TemperaturaC#v25\Temperatura_ArduinoCSharp\obj\Debug\Temperatura_ArduinoCSharp.exe
+C:\Users\Aluno\Downloads\TemperaturaC#v25\TemperaturaC#v25\Temperatura_ArduinoCSharp\obj\Debug\Temperatura_ArduinoCSharp.pdb
+C:\Users\Aluno\Downloads\TemperaturaC#v25\TemperaturaC#v25\Temperatura_ArduinoCSharp\bin\Debug\AGauge.dll
