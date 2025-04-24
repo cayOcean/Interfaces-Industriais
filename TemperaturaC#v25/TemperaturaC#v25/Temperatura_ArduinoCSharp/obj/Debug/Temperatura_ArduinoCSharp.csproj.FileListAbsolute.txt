@@ -22,3 +22,15 @@ C:\Users\Aluno\Downloads\TemperaturaC#v25\TemperaturaC#v25\Temperatura_ArduinoCS
 C:\Users\Aluno\Downloads\TemperaturaC#v25\TemperaturaC#v25\Temperatura_ArduinoCSharp\obj\Debug\Temperatura_ArduinoCSharp.exe
 C:\Users\Aluno\Downloads\TemperaturaC#v25\TemperaturaC#v25\Temperatura_ArduinoCSharp\obj\Debug\Temperatura_ArduinoCSharp.pdb
 C:\Users\Aluno\Downloads\TemperaturaC#v25\TemperaturaC#v25\Temperatura_ArduinoCSharp\bin\Debug\AGauge.dll
+C:\Users\Aluno\Desktop\Interfaces-Industriais\TemperaturaC#v25\TemperaturaC#v25\Temperatura_ArduinoCSharp\bin\Debug\Temperatura_ArduinoCSharp.exe.config
+C:\Users\Aluno\Desktop\Interfaces-Industriais\TemperaturaC#v25\TemperaturaC#v25\Temperatura_ArduinoCSharp\bin\Debug\Temperatura_ArduinoCSharp.exe
+C:\Users\Aluno\Desktop\Interfaces-Industriais\TemperaturaC#v25\TemperaturaC#v25\Temperatura_ArduinoCSharp\bin\Debug\Temperatura_ArduinoCSharp.pdb
+C:\Users\Aluno\Desktop\Interfaces-Industriais\TemperaturaC#v25\TemperaturaC#v25\Temperatura_ArduinoCSharp\bin\Debug\AGauge.dll
+C:\Users\Aluno\Desktop\Interfaces-Industriais\TemperaturaC#v25\TemperaturaC#v25\Temperatura_ArduinoCSharp\obj\Debug\Temperatura_ArduinoCSharp.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Interfaces-Industriais\TemperaturaC#v25\TemperaturaC#v25\Temperatura_ArduinoCSharp\obj\Debug\Temperatura_ArduinoCSharp.Form1.resources
+C:\Users\Aluno\Desktop\Interfaces-Industriais\TemperaturaC#v25\TemperaturaC#v25\Temperatura_ArduinoCSharp\obj\Debug\Temperatura_ArduinoCSharp.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Interfaces-Industriais\TemperaturaC#v25\TemperaturaC#v25\Temperatura_ArduinoCSharp\obj\Debug\Temperatura_ArduinoCSharp.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Interfaces-Industriais\TemperaturaC#v25\TemperaturaC#v25\Temperatura_ArduinoCSharp\obj\Debug\Temperatura_ArduinoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Interfaces-Industriais\TemperaturaC#v25\TemperaturaC#v25\Temperatura_ArduinoCSharp\obj\Debug\Temperat.330588EA.Up2Date
+C:\Users\Aluno\Desktop\Interfaces-Industriais\TemperaturaC#v25\TemperaturaC#v25\Temperatura_ArduinoCSharp\obj\Debug\Temperatura_ArduinoCSharp.exe
+C:\Users\Aluno\Desktop\Interfaces-Industriais\TemperaturaC#v25\TemperaturaC#v25\Temperatura_ArduinoCSharp\obj\Debug\Temperatura_ArduinoCSharp.pdb

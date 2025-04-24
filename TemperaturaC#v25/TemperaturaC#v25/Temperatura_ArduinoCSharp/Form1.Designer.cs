@@ -44,22 +44,34 @@
             System.Windows.Forms.AGaugeRange aGaugeRange7 = new System.Windows.Forms.AGaugeRange();
             System.Windows.Forms.AGaugeRange aGaugeRange8 = new System.Windows.Forms.AGaugeRange();
             System.Windows.Forms.AGaugeRange aGaugeRange9 = new System.Windows.Forms.AGaugeRange();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.btFinalizar = new System.Windows.Forms.Button();
             this.lbPorta = new System.Windows.Forms.Label();
             this.txPorta = new System.Windows.Forms.TextBox();
             this.serialPort1 = new System.IO.Ports.SerialPort(this.components);
             this.aGTemp = new System.Windows.Forms.AGauge();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.cbBaudRate = new System.Windows.Forms.ComboBox();
             this.btDesconectar = new System.Windows.Forms.Button();
             this.btConectar = new System.Windows.Forms.Button();
             this.aGauge1 = new System.Windows.Forms.AGauge();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.lblTemperatura = new System.Windows.Forms.Label();
+            this.lblTensao = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.SuspendLayout();
             // 
             // btFinalizar
             // 
-            this.btFinalizar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.btFinalizar.Location = new System.Drawing.Point(16, 17);
+            this.btFinalizar.BackColor = System.Drawing.Color.Firebrick;
+            this.btFinalizar.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btFinalizar.ForeColor = System.Drawing.Color.White;
+            this.btFinalizar.Location = new System.Drawing.Point(6, 19);
             this.btFinalizar.Name = "btFinalizar";
             this.btFinalizar.Size = new System.Drawing.Size(121, 28);
             this.btFinalizar.TabIndex = 1;
@@ -72,7 +84,7 @@
             this.lbPorta.AutoSize = true;
             this.lbPorta.BackColor = System.Drawing.Color.Gray;
             this.lbPorta.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbPorta.Location = new System.Drawing.Point(608, 24);
+            this.lbPorta.Location = new System.Drawing.Point(392, 24);
             this.lbPorta.Name = "lbPorta";
             this.lbPorta.Size = new System.Drawing.Size(86, 18);
             this.lbPorta.TabIndex = 2;
@@ -80,7 +92,7 @@
             // 
             // txPorta
             // 
-            this.txPorta.Location = new System.Drawing.Point(700, 22);
+            this.txPorta.Location = new System.Drawing.Point(484, 22);
             this.txPorta.Name = "txPorta";
             this.txPorta.Size = new System.Drawing.Size(100, 20);
             this.txPorta.TabIndex = 3;
@@ -206,6 +218,8 @@
             // groupBox1
             // 
             this.groupBox1.BackColor = System.Drawing.Color.Gray;
+            this.groupBox1.Controls.Add(this.label1);
+            this.groupBox1.Controls.Add(this.cbBaudRate);
             this.groupBox1.Controls.Add(this.btDesconectar);
             this.groupBox1.Controls.Add(this.btConectar);
             this.groupBox1.Controls.Add(this.btFinalizar);
@@ -217,10 +231,29 @@
             this.groupBox1.TabIndex = 7;
             this.groupBox1.TabStop = false;
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.Color.Gray;
+            this.label1.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(600, 24);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(82, 18);
+            this.label1.TabIndex = 7;
+            this.label1.Text = "Baud Rate";
+            // 
+            // cbBaudRate
+            // 
+            this.cbBaudRate.FormattingEnabled = true;
+            this.cbBaudRate.Location = new System.Drawing.Point(688, 22);
+            this.cbBaudRate.Name = "cbBaudRate";
+            this.cbBaudRate.Size = new System.Drawing.Size(121, 21);
+            this.cbBaudRate.TabIndex = 6;
+            // 
             // btDesconectar
             // 
             this.btDesconectar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.btDesconectar.Location = new System.Drawing.Point(354, 19);
+            this.btDesconectar.Location = new System.Drawing.Point(133, 19);
             this.btDesconectar.Name = "btDesconectar";
             this.btDesconectar.Size = new System.Drawing.Size(121, 28);
             this.btDesconectar.TabIndex = 5;
@@ -231,7 +264,7 @@
             // btConectar
             // 
             this.btConectar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.btConectar.Location = new System.Drawing.Point(481, 19);
+            this.btConectar.Location = new System.Drawing.Point(260, 19);
             this.btConectar.Name = "btConectar";
             this.btConectar.Size = new System.Drawing.Size(121, 28);
             this.btConectar.TabIndex = 4;
@@ -320,20 +353,75 @@
             this.aGauge1.Text = "aGauge1";
             this.aGauge1.Value = 0F;
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Location = new System.Drawing.Point(768, 193);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(53, 51);
+            this.pictureBox1.TabIndex = 9;
+            this.pictureBox1.TabStop = false;
+            // 
+            // lblTemperatura
+            // 
+            this.lblTemperatura.AutoSize = true;
+            this.lblTemperatura.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTemperatura.Location = new System.Drawing.Point(225, 335);
+            this.lblTemperatura.Name = "lblTemperatura";
+            this.lblTemperatura.Size = new System.Drawing.Size(0, 24);
+            this.lblTemperatura.TabIndex = 10;
+            // 
+            // lblTensao
+            // 
+            this.lblTensao.AutoSize = true;
+            this.lblTensao.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTensao.Location = new System.Drawing.Point(552, 335);
+            this.lblTensao.Name = "lblTensao";
+            this.lblTensao.Size = new System.Drawing.Size(0, 24);
+            this.lblTensao.TabIndex = 11;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 22F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Pixel, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(78, 30);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(117, 26);
+            this.label2.TabIndex = 12;
+            this.label2.Text = "TempMLZ";
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Image = global::Temperatura_ArduinoCSharp.Properties.Resources.Icone;
+            this.pictureBox2.Location = new System.Drawing.Point(24, 19);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(48, 43);
+            this.pictureBox2.TabIndex = 13;
+            this.pictureBox2.TabStop = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(839, 610);
+            this.Controls.Add(this.pictureBox2);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.lblTensao);
+            this.Controls.Add(this.lblTemperatura);
+            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.aGauge1);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.aGTemp);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "TempMLZ";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -347,6 +435,13 @@
         private System.Windows.Forms.Button btConectar;
         private System.Windows.Forms.Button btDesconectar;
         private System.Windows.Forms.AGauge aGauge1;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.ComboBox cbBaudRate;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label lblTemperatura;
+        private System.Windows.Forms.Label lblTensao;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.PictureBox pictureBox2;
     }
 }
 

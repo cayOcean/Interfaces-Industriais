@@ -1,47 +1,41 @@
-// Definindo os pinos
-int SENSOR_TEMP = 4;   // Sensor de temperatura conectado
-int SENSOR_POT = A0;   // Potenciômetro conectado ao pino A1
-int LED = 13; 
+#include <dht11.h>
 
-float D = 0;           // Leitura do sensor de temperatura
-int T = 0;             // Temperatura em Celsius
-int P = 0;             // Valor bruto do potenciômetro
-float V = 0;           // Voltagem do potenciômetro
+#define DHT11PIN 4        // Pino onde o DHT11 está conectado
+#define SENSOR_POT A0     // Pino do potenciômetro
+#define LED 13            // LED
+
+dht11 DHT11;              // Objeto do sensor
 
 void setup() {
-  Serial.begin(9600);   
-  delay(2000);          
-  Serial.println("Leitura de Temperatura e Potenciômetro Iniciada");
+  pinMode(LED, OUTPUT);
+  Serial.begin(9600);
+  delay(2000);
 }
 
 void loop() {
-
-    // Verifica se recebeu comando via serial
+  // Lê comandos da serial
   if (Serial.available() > 0) {
     char comando = Serial.read();
     if (comando == 'L') {
-      digitalWrite(LED, HIGH);  // Liga o LED
-    } 
-    else if (comando == 'D') {
-      digitalWrite(LED, LOW);   // Desliga o LED
+      digitalWrite(LED, HIGH);
+    } else if (comando == 'D') {
+      digitalWrite(LED, LOW);
     }
   }
-  
-  D = analogRead(SENSOR_TEMP);  
-  T = (D * 5.0 * 100.0) / 1023.0;
 
-  if (T > 120) {
-    T = 120;
-  }
+  // Leitura do DHT11
+  int chk = DHT11.read(DHT11PIN);
+  int temperatura = (int)DHT11.temperature;
 
-  P = analogRead(SENSOR_POT);
-  V = (P * 5.0) / 1023.0;  // Conversão para volts
+  // Leitura do potenciômetro
+  int leituraPot = analogRead(SENSOR_POT);
+  float tensao = leituraPot * 5.0 / 1023.0;
 
-  Serial.print(T);         // Temperatura
-  Serial.print(", ");
-  Serial.println(V, 2);    // Potenciômetro em volts, com 2 casas decimais
-  
+  // Envia os dados formatados
+  Serial.print(temperatura);
+  Serial.print(",");                
+  Serial.println(tensao, 2);         
+
+
   delay(1000);
 }
-
-
